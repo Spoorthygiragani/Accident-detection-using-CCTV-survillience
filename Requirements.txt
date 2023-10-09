@@ -1,0 +1,14 @@
+explaination
+
+1)This project seeks to know the whether there is any accident done or no accident. If the accident 
+is done it sounds an alarm, and in display it shows as accident..
+
+2)better to do in anaconda
+
+3)python should be used.
+
+4) training and testing is done 
+
+5)simple ui.
+
+6) use the videos to check which i sent.
