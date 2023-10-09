@@ -1,2 +1,2 @@
-python AccidentDetection.py
+python Main.py
 pause
